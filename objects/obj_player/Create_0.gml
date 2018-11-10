@@ -5,5 +5,5 @@ key_up = vk_up;
 key_down = vk_down;
 
 //speed of movement: setter
-spd_x = 5;
+spd_x = 7;
 spd_y = 2;
